@@ -288,9 +288,7 @@ Secure-Result-Management-System/
 │   └── results/                       # Result file uploads
 │
 └── [Documentation & Report Files]
-    ├── Secure And Automated Result Management System - Report (5)- End-Sem Evaluation.docx
-    ├── Doc1.docx
-    └── WhatsApp Image 2025-11-21 at 00.41.04.jpeg
+    └── Schema.jpeg
 ```
 
 ### 0.2 Core Components Overview
